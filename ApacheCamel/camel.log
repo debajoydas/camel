@@ -1,0 +1,1017 @@
+2020-06-30 01:32:43,588 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-06-30 01:32:44,484 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-06-30 01:32:44,491 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-06-30 01:32:44,493 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-06-30 01:32:44,515 | INFO | AbstractLogger.java 382 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-06-30 01:32:44,516 | INFO | AbstractLogger.java 386 | Using default memory based idempotent repository with cache max size: 1000
+2020-06-30 01:32:44,544 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: file://data/input
+2020-06-30 01:32:44,548 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-06-30 01:32:44,549 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.059 seconds
+2020-06-30 01:32:45,613 | INFO | AbstractLogger.java 382 | log:?level=INFO&showBody=true
+2020-06-30 01:32:45,658 | INFO | AbstractLogger.java 382 | log:?level=INFO&showBody=true
+2020-06-30 01:32:49,551 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-06-30 01:32:49,554 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 45 seconds)
+2020-06-30 01:32:49,559 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: file://data/input
+2020-06-30 01:32:49,561 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-06-30 01:32:49,574 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 5.085 seconds
+2020-06-30 01:32:49,578 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.027 seconds
+2020-06-30 01:44:02,301 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-06-30 01:44:03,248 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-06-30 01:44:03,254 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-06-30 01:44:03,255 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-06-30 01:44:03,275 | INFO | AbstractLogger.java 382 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-06-30 01:44:03,275 | INFO | AbstractLogger.java 386 | Using default memory based idempotent repository with cache max size: 1000
+2020-06-30 01:44:03,308 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: file://data/input
+2020-06-30 01:44:03,311 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-06-30 01:44:03,312 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.058 seconds
+2020-06-30 01:44:04,352 | INFO | AbstractLogger.java 382 | log:?level=INFO&showBody=true
+2020-06-30 01:44:04,386 | INFO | AbstractLogger.java 382 | log:?level=INFO&showBody=true
+2020-06-30 01:44:08,313 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-06-30 01:44:08,317 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 45 seconds)
+2020-06-30 01:44:08,323 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: file://data/input
+2020-06-30 01:44:08,324 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-06-30 01:44:08,338 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 5.085 seconds
+2020-06-30 01:44:08,341 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.028 seconds
+2020-06-30 01:47:44,407 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-06-30 01:47:45,365 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-06-30 01:47:45,372 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-06-30 01:47:45,373 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-06-30 01:47:45,396 | INFO | AbstractLogger.java 382 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-06-30 01:47:45,397 | INFO | AbstractLogger.java 386 | Using default memory based idempotent repository with cache max size: 1000
+2020-06-30 01:47:45,437 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: file://data/input
+2020-06-30 01:47:45,440 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-06-30 01:47:45,443 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.072 seconds
+2020-06-30 01:47:46,478 | INFO | AbstractLogger.java 382 | Exchange[ExchangePattern: InOnly, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file1]]]
+2020-06-30 01:47:46,541 | INFO | AbstractLogger.java 382 | Exchange[ExchangePattern: InOnly, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file2]]]
+2020-06-30 01:47:50,444 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-06-30 01:47:50,446 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 45 seconds)
+2020-06-30 01:47:50,453 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: file://data/input
+2020-06-30 01:47:50,454 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-06-30 01:47:50,466 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 5.096 seconds
+2020-06-30 01:47:50,469 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.025 seconds
+2020-06-30 01:49:07,764 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-06-30 01:49:08,854 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-06-30 01:49:08,861 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-06-30 01:49:08,862 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-06-30 01:49:08,887 | INFO | AbstractLogger.java 382 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-06-30 01:49:08,889 | INFO | AbstractLogger.java 386 | Using default memory based idempotent repository with cache max size: 1000
+2020-06-30 01:49:08,924 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: file://data/input
+2020-06-30 01:49:08,928 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-06-30 01:49:08,930 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.071 seconds
+2020-06-30 01:49:10,023 | INFO | AbstractLogger.java 382 | Exchange[ExchangePattern: InOnly, Headers: {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input\file1, CamelFileLastModified=1593458520598, CamelFileLength=5, CamelFileName=file1, CamelFileNameConsumed=file1, CamelFileNameOnly=file1, CamelFileParent=data\input, CamelFilePath=data\input\file1, CamelFileRelativePath=file1}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file1]]]
+2020-06-30 01:49:10,101 | INFO | AbstractLogger.java 382 | Exchange[ExchangePattern: InOnly, Headers: {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input\file2, CamelFileLastModified=1593458534383, CamelFileLength=8, CamelFileName=file2, CamelFileNameConsumed=file2, CamelFileNameOnly=file2, CamelFileParent=data\input, CamelFilePath=data\input\file2, CamelFileRelativePath=file2}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file2]]]
+2020-06-30 01:49:13,933 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-06-30 01:49:13,937 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 45 seconds)
+2020-06-30 01:49:13,967 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: file://data/input
+2020-06-30 01:49:13,968 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-06-30 01:49:13,991 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 5.132 seconds
+2020-06-30 01:49:13,997 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.064 seconds
+2020-06-30 02:11:00,948 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-06-30 02:11:02,836 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-06-30 02:11:02,850 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-06-30 02:11:02,852 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-06-30 02:11:02,927 | INFO | AbstractLogger.java 382 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-06-30 02:11:02,927 | INFO | AbstractLogger.java 386 | Using default memory based idempotent repository with cache max size: 1000
+2020-06-30 02:11:03,007 | INFO | AbstractLogger.java 382 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-06-30 02:11:03,008 | INFO | AbstractLogger.java 386 | Using default memory based idempotent repository with cache max size: 1000
+2020-06-30 02:11:03,031 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: file://data/input
+2020-06-30 02:11:03,077 | INFO | AbstractLogger.java 382 | Route: route2 started and consuming from: file://data/input1
+2020-06-30 02:11:03,078 | INFO | AbstractLogger.java 393 | Total 2 routes, of which 2 are started
+2020-06-30 02:11:03,080 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.233 seconds
+2020-06-30 02:11:04,107 | INFO | AbstractLogger.java 382 | Exchange[ExchangePattern: InOnly, Headers: {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input\file1, CamelFileLastModified=1593458520598, CamelFileLength=5, CamelFileName=file1, CamelFileNameConsumed=file1, CamelFileNameOnly=file1, CamelFileParent=data\input, CamelFilePath=data\input\file1, CamelFileRelativePath=file1}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file1]]]
+2020-06-30 02:11:04,384 | INFO | AbstractLogger.java 382 | Exchange[ExchangePattern: InOnly, Headers: {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input\file2, CamelFileLastModified=1593458534383, CamelFileLength=8, CamelFileName=file2, CamelFileNameConsumed=file2, CamelFileNameOnly=file2, CamelFileParent=data\input, CamelFilePath=data\input\file2, CamelFileRelativePath=file2}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file2]]]
+2020-06-30 02:11:08,081 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-06-30 02:11:08,085 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 2 routes (timeout 45 seconds)
+2020-06-30 02:11:08,099 | INFO | AbstractLogger.java 393 | Route: route2 shutdown complete, was consuming from: file://data/input1
+2020-06-30 02:11:08,101 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: file://data/input
+2020-06-30 02:11:08,104 | INFO | AbstractLogger.java 393 | Graceful shutdown of 2 routes completed in 0 seconds
+2020-06-30 02:11:08,122 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 5.277 seconds
+2020-06-30 02:11:08,123 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.041 seconds
+2020-06-30 02:37:32,064 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-06-30 02:37:32,070 | INFO | AbstractLogger.java 382 | Testing: checkOutpoutDirectory(TestRouteBuilderCustom)
+2020-06-30 02:37:32,071 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-06-30 02:37:32,418 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-06-30 02:37:33,373 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-06-30 02:37:33,375 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-06-30 02:37:33,376 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-06-30 02:37:33,404 | INFO | AbstractLogger.java 382 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-06-30 02:37:33,405 | INFO | AbstractLogger.java 386 | Using default memory based idempotent repository with cache max size: 1000
+2020-06-30 02:37:33,440 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: file://data/input
+2020-06-30 02:37:33,443 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-06-30 02:37:33,444 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.069 seconds
+2020-06-30 02:37:34,495 | INFO | AbstractLogger.java 382 | Exchange[ExchangePattern: InOnly, Headers: {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input\file1, CamelFileLastModified=1593458520598, CamelFileLength=5, CamelFileName=file1, CamelFileNameConsumed=file1, CamelFileNameOnly=file1, CamelFileParent=data\input, CamelFilePath=data\input\file1, CamelFileRelativePath=file1}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file1]]]
+2020-06-30 02:37:34,548 | INFO | AbstractLogger.java 382 | Exchange[ExchangePattern: InOnly, Headers: {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input\file2, CamelFileLastModified=1593458534383, CamelFileLength=8, CamelFileName=file2, CamelFileNameConsumed=file2, CamelFileNameOnly=file2, CamelFileParent=data\input, CamelFilePath=data\input\file2, CamelFileRelativePath=file2}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file2]]]
+2020-06-30 02:37:38,447 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-06-30 02:37:38,448 | INFO | AbstractLogger.java 382 | Testing done: checkOutpoutDirectory(TestRouteBuilderCustom)
+2020-06-30 02:37:38,451 | INFO | AbstractLogger.java 382 | Took: 5.001 seconds (5001 millis)
+2020-06-30 02:37:38,451 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-06-30 02:37:38,457 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-06-30 02:37:38,459 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-06-30 02:37:38,465 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: file://data/input
+2020-06-30 02:37:38,466 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-06-30 02:37:38,475 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 5.101 seconds
+2020-06-30 02:37:38,476 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.019 seconds
+2020-06-30 11:12:16,526 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-06-30 11:12:16,671 | INFO | AbstractLogger.java 382 | Testing: checkOutpoutDirectory(TestRouteBuilderCustom)
+2020-06-30 11:12:16,672 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-06-30 11:12:17,207 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-06-30 11:12:19,125 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-06-30 11:12:19,127 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-06-30 11:12:19,130 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-06-30 11:12:19,154 | INFO | AbstractLogger.java 382 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-06-30 11:12:19,154 | INFO | AbstractLogger.java 386 | Using default memory based idempotent repository with cache max size: 1000
+2020-06-30 11:12:19,190 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: file://data/input
+2020-06-30 11:12:19,193 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-06-30 11:12:19,195 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.068 seconds
+2020-06-30 11:12:20,273 | INFO | AbstractLogger.java 382 | Exchange[ExchangePattern: InOnly, Headers: {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input\file1, CamelFileLastModified=1593458520598, CamelFileLength=5, CamelFileName=file1, CamelFileNameConsumed=file1, CamelFileNameOnly=file1, CamelFileParent=data\input, CamelFilePath=data\input\file1, CamelFileRelativePath=file1}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file1]]]
+2020-06-30 11:12:20,325 | INFO | AbstractLogger.java 382 | Exchange[ExchangePattern: InOnly, Headers: {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input\file2, CamelFileLastModified=1593458534383, CamelFileLength=8, CamelFileName=file2, CamelFileNameConsumed=file2, CamelFileNameOnly=file2, CamelFileParent=data\input, CamelFilePath=data\input\file2, CamelFileRelativePath=file2}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file2]]]
+2020-06-30 11:12:24,218 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-06-30 11:12:24,219 | INFO | AbstractLogger.java 382 | Testing done: checkOutpoutDirectory(TestRouteBuilderCustom)
+2020-06-30 11:12:24,222 | INFO | AbstractLogger.java 382 | Took: 5.020 seconds (5020 millis)
+2020-06-30 11:12:24,223 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-06-30 11:12:24,231 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-06-30 11:12:24,235 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-06-30 11:12:24,244 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: file://data/input
+2020-06-30 11:12:24,246 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-06-30 11:12:24,256 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 5.131 seconds
+2020-06-30 11:12:24,257 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.026 seconds
+2020-06-30 12:29:24,388 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-06-30 12:29:24,394 | INFO | AbstractLogger.java 382 | Testing: checkOutpoutDirectory(TestCamelProcessor)
+2020-06-30 12:29:24,395 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-06-30 12:29:24,651 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-06-30 12:29:25,774 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-06-30 12:29:25,777 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-06-30 12:29:25,777 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-06-30 12:29:25,794 | INFO | AbstractLogger.java 382 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-06-30 12:29:25,795 | INFO | AbstractLogger.java 386 | Using default memory based idempotent repository with cache max size: 1000
+2020-06-30 12:29:25,838 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: file://data/input2
+2020-06-30 12:29:25,841 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-06-30 12:29:25,842 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.066 seconds
+2020-06-30 12:29:26,881 | INFO | AbstractLogger.java 382 | read file New1 along with headers {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input2\file1, CamelFileLastModified=1593463199846, CamelFileLength=4, CamelFileName=file1, CamelFileNameConsumed=file1, CamelFileNameOnly=file1, CamelFileParent=data\input2, CamelFilePath=data\input2\file1, CamelFileRelativePath=file1}
+2020-06-30 12:29:26,887 | INFO | AbstractLogger.java 382 | Exchange[ExchangePattern: InOnly, Headers: {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input2\file1, CamelFileLastModified=1593463199846, CamelFileLength=4, CamelFileName=file1, CamelFileNameConsumed=file1, CamelFileNameOnly=file1, CamelFileParent=data\input2, CamelFilePath=data\input2\file1, CamelFileRelativePath=file1}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file1]]]
+2020-06-30 12:29:26,912 | INFO | AbstractLogger.java 382 | read file NewCode along with headers {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input2\file2, CamelFileLastModified=1593463212590, CamelFileLength=7, CamelFileName=file2, CamelFileNameConsumed=file2, CamelFileNameOnly=file2, CamelFileParent=data\input2, CamelFilePath=data\input2\file2, CamelFileRelativePath=file2}
+2020-06-30 12:29:26,912 | INFO | AbstractLogger.java 382 | Exchange[ExchangePattern: InOnly, Headers: {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input2\file2, CamelFileLastModified=1593463212590, CamelFileLength=7, CamelFileName=file2, CamelFileNameConsumed=file2, CamelFileNameOnly=file2, CamelFileParent=data\input2, CamelFilePath=data\input2\file2, CamelFileRelativePath=file2}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file2]]]
+2020-06-30 12:29:30,844 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-06-30 12:29:30,844 | INFO | AbstractLogger.java 382 | Testing done: checkOutpoutDirectory(TestCamelProcessor)
+2020-06-30 12:29:30,845 | INFO | AbstractLogger.java 382 | Took: 5.000 seconds (5000 millis)
+2020-06-30 12:29:30,845 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-06-30 12:29:30,853 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-06-30 12:29:30,855 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-06-30 12:29:30,862 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: file://data/input2
+2020-06-30 12:29:30,863 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-06-30 12:29:30,873 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 5.098 seconds
+2020-06-30 12:29:30,873 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.021 seconds
+2020-07-08 12:45:04,224 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 12:45:04,236 | INFO | AbstractLogger.java 382 | Testing: checkOutpoutDirectory(TestCamelProcessor)
+2020-07-08 12:45:04,236 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 12:45:04,631 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 12:45:06,166 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 12:45:06,168 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 12:45:06,169 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 12:45:06,184 | INFO | AbstractLogger.java 382 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-07-08 12:45:06,186 | INFO | AbstractLogger.java 386 | Using default memory based idempotent repository with cache max size: 1000
+2020-07-08 12:45:06,217 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: file://data/input2
+2020-07-08 12:45:06,220 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 12:45:06,223 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.055 seconds
+2020-07-08 12:45:07,278 | INFO | AbstractLogger.java 382 | read file Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456 along with headers {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input2\file1, CamelFileLastModified=1593500536827, CamelFileLength=190, CamelFileName=file1, CamelFileNameConsumed=file1, CamelFileNameOnly=file1, CamelFileParent=data\input2, CamelFilePath=data\input2\file1, CamelFileRelativePath=file1}
+2020-07-08 12:45:07,283 | INFO | AbstractLogger.java 382 | Exchange[ExchangePattern: InOnly, Headers: {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input2\file1, CamelFileLastModified=1593500536827, CamelFileLength=190, CamelFileName=file1, CamelFileNameConsumed=file1, CamelFileNameOnly=file1, CamelFileParent=data\input2, CamelFilePath=data\input2\file1, CamelFileRelativePath=file1}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file1]]]
+2020-07-08 12:45:11,224 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 12:45:11,224 | INFO | AbstractLogger.java 382 | Testing done: checkOutpoutDirectory(TestCamelProcessor)
+2020-07-08 12:45:11,227 | INFO | AbstractLogger.java 382 | Took: 5.000 seconds (5000 millis)
+2020-07-08 12:45:11,228 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 12:45:11,235 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 12:45:11,250 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 12:45:11,258 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: file://data/input2
+2020-07-08 12:45:11,259 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 12:45:11,271 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 5.105 seconds
+2020-07-08 12:45:11,272 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.037 seconds
+2020-07-08 12:48:03,951 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 12:48:03,967 | INFO | AbstractLogger.java 382 | Testing: checkOutpoutDirectory(TestCamelProcessor)
+2020-07-08 12:48:03,967 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 12:48:04,233 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 12:48:05,440 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 12:48:05,444 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 12:48:05,446 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 12:48:05,468 | INFO | AbstractLogger.java 382 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-07-08 12:48:05,469 | INFO | AbstractLogger.java 386 | Using default memory based idempotent repository with cache max size: 1000
+2020-07-08 12:48:05,517 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: file://data/input2
+2020-07-08 12:48:05,524 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 12:48:05,527 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.084 seconds
+2020-07-08 12:48:06,583 | INFO | AbstractLogger.java 382 | read file Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456 along with headers {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input2\file1, CamelFileLastModified=1593500536827, CamelFileLength=190, CamelFileName=file1, CamelFileNameConsumed=file1, CamelFileNameOnly=file1, CamelFileParent=data\input2, CamelFilePath=data\input2\file1, CamelFileRelativePath=file1}
+2020-07-08 12:48:06,587 | INFO | AbstractLogger.java 382 | Exchange[ExchangePattern: InOnly, Headers: {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input2\file1, CamelFileLastModified=1593500536827, CamelFileLength=190, CamelFileName=file1, CamelFileNameConsumed=file1, CamelFileNameOnly=file1, CamelFileParent=data\input2, CamelFilePath=data\input2\file1, CamelFileRelativePath=file1}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file1]]]
+2020-07-08 12:48:10,530 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 12:48:10,530 | INFO | AbstractLogger.java 382 | Testing done: checkOutpoutDirectory(TestCamelProcessor)
+2020-07-08 12:48:10,534 | INFO | AbstractLogger.java 382 | Took: 5.001 seconds (5001 millis)
+2020-07-08 12:48:10,535 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 12:48:10,542 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 12:48:10,546 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 12:48:10,553 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: file://data/input2
+2020-07-08 12:48:10,554 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 12:48:10,568 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 5.128 seconds
+2020-07-08 12:48:10,568 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.026 seconds
+2020-07-08 12:49:05,293 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 12:49:05,301 | INFO | AbstractLogger.java 382 | Testing: checkOutpoutDirectory(TestCamelProcessor)
+2020-07-08 12:49:05,301 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 12:49:05,595 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 12:49:06,729 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 12:49:06,733 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 12:49:06,735 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 12:49:06,757 | INFO | AbstractLogger.java 382 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-07-08 12:49:06,758 | INFO | AbstractLogger.java 386 | Using default memory based idempotent repository with cache max size: 1000
+2020-07-08 12:49:06,815 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: file://data/input2
+2020-07-08 12:49:06,818 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 12:49:06,820 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.088 seconds
+2020-07-08 12:49:07,930 | INFO | AbstractLogger.java 382 | read file Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456 along with headers {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input2\file1, CamelFileLastModified=1593500536827, CamelFileLength=190, CamelFileName=file1, CamelFileNameConsumed=file1, CamelFileNameOnly=file1, CamelFileParent=data\input2, CamelFilePath=data\input2\file1, CamelFileRelativePath=file1}
+2020-07-08 12:49:07,934 | INFO | AbstractLogger.java 382 | Exchange[ExchangePattern: InOnly, Headers: {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input2\file1, CamelFileLastModified=1593500536827, CamelFileLength=190, CamelFileName=file1, CamelFileNameConsumed=file1, CamelFileNameOnly=file1, CamelFileParent=data\input2, CamelFilePath=data\input2\file1, CamelFileRelativePath=file1}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file1]]]
+2020-07-08 12:49:11,823 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 12:49:11,823 | INFO | AbstractLogger.java 382 | Testing done: checkOutpoutDirectory(TestCamelProcessor)
+2020-07-08 12:49:11,828 | INFO | AbstractLogger.java 382 | Took: 5.001 seconds (5001 millis)
+2020-07-08 12:49:11,829 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 12:49:11,834 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 12:49:11,837 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 12:49:11,842 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: file://data/input2
+2020-07-08 12:49:11,844 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 12:49:11,859 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 5.129 seconds
+2020-07-08 12:49:11,860 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.026 seconds
+2020-07-08 12:49:31,627 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 12:49:31,633 | INFO | AbstractLogger.java 382 | Testing: checkFileExistsInOutputDirectory(TestCamelProcessor)
+2020-07-08 12:49:31,633 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 12:49:31,935 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 12:49:33,158 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 12:49:33,161 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 12:49:33,161 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 12:49:33,192 | INFO | AbstractLogger.java 382 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-07-08 12:49:33,193 | INFO | AbstractLogger.java 386 | Using default memory based idempotent repository with cache max size: 1000
+2020-07-08 12:49:33,259 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: file://data/input2
+2020-07-08 12:49:33,262 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 12:49:33,264 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.105 seconds
+2020-07-08 12:49:34,340 | INFO | AbstractLogger.java 382 | read file Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456 along with headers {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input2\file1, CamelFileLastModified=1593500536827, CamelFileLength=190, CamelFileName=file1, CamelFileNameConsumed=file1, CamelFileNameOnly=file1, CamelFileParent=data\input2, CamelFilePath=data\input2\file1, CamelFileRelativePath=file1}
+2020-07-08 12:49:34,345 | INFO | AbstractLogger.java 382 | Exchange[ExchangePattern: InOnly, Headers: {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input2\file1, CamelFileLastModified=1593500536827, CamelFileLength=190, CamelFileName=file1, CamelFileNameConsumed=file1, CamelFileNameOnly=file1, CamelFileParent=data\input2, CamelFilePath=data\input2\file1, CamelFileRelativePath=file1}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file1]]]
+2020-07-08 12:49:38,269 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 12:49:38,271 | INFO | AbstractLogger.java 382 | Testing done: checkFileExistsInOutputDirectory(TestCamelProcessor)
+2020-07-08 12:49:38,275 | INFO | AbstractLogger.java 382 | Took: 5.003 seconds (5003 millis)
+2020-07-08 12:49:38,276 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 12:49:38,281 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 12:49:38,284 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 12:49:38,292 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: file://data/input2
+2020-07-08 12:49:38,293 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 12:49:38,305 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 5.147 seconds
+2020-07-08 12:49:38,306 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.024 seconds
+2020-07-08 12:50:08,520 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 12:50:08,528 | INFO | AbstractLogger.java 382 | Testing: checkFileExistsInOutputDirectory(TestCamelProcessor)
+2020-07-08 12:50:08,534 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 12:50:08,831 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 12:50:09,948 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 12:50:09,954 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 12:50:09,955 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 12:50:09,972 | INFO | AbstractLogger.java 382 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-07-08 12:50:09,974 | INFO | AbstractLogger.java 386 | Using default memory based idempotent repository with cache max size: 1000
+2020-07-08 12:50:10,009 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: file://data/input2
+2020-07-08 12:50:10,011 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 12:50:10,015 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.061 seconds
+2020-07-08 12:50:11,085 | INFO | AbstractLogger.java 382 | read file Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456
+Joy,Microsoft,23434456 along with headers {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input2\file1, CamelFileLastModified=1593500536827, CamelFileLength=190, CamelFileName=file1, CamelFileNameConsumed=file1, CamelFileNameOnly=file1, CamelFileParent=data\input2, CamelFilePath=data\input2\file1, CamelFileRelativePath=file1}
+2020-07-08 12:50:11,091 | INFO | AbstractLogger.java 382 | Exchange[ExchangePattern: InOnly, Headers: {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input2\file1, CamelFileLastModified=1593500536827, CamelFileLength=190, CamelFileName=file1, CamelFileNameConsumed=file1, CamelFileNameOnly=file1, CamelFileParent=data\input2, CamelFilePath=data\input2\file1, CamelFileRelativePath=file1}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file1]]]
+2020-07-08 12:50:15,019 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 12:50:15,020 | INFO | AbstractLogger.java 382 | Testing done: checkFileExistsInOutputDirectory(TestCamelProcessor)
+2020-07-08 12:50:15,022 | INFO | AbstractLogger.java 382 | Took: 5.003 seconds (5003 millis)
+2020-07-08 12:50:15,023 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 12:50:15,032 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 12:50:15,035 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 12:50:15,041 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: file://data/input2
+2020-07-08 12:50:15,041 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 12:50:15,057 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 5.106 seconds
+2020-07-08 12:50:15,057 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.025 seconds
+2020-07-08 13:19:24,492 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 13:19:24,498 | INFO | AbstractLogger.java 382 | Testing: checkOutpoutDirectory(com.tutorial.camel.route.direct.TestCamelSingleRouteDirect)
+2020-07-08 13:19:24,499 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 13:19:24,741 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 13:19:25,715 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 13:19:25,717 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 13:19:25,718 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 13:19:25,737 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: direct://sampleInput
+2020-07-08 13:19:25,745 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 13:19:25,747 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.031 seconds
+2020-07-08 13:19:25,809 | INFO | AbstractLogger.java 382 | Received Message is Hello and Headers are {hi=1}
+2020-07-08 13:19:30,939 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 13:19:30,939 | INFO | AbstractLogger.java 382 | Testing done: checkOutpoutDirectory(com.tutorial.camel.route.direct.TestCamelSingleRouteDirect)
+2020-07-08 13:19:30,940 | INFO | AbstractLogger.java 382 | Took: 5.189 seconds (5189 millis)
+2020-07-08 13:19:30,940 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 13:19:30,951 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 13:19:30,956 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 13:19:30,964 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: direct://sampleInput
+2020-07-08 13:19:30,965 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 13:19:30,977 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 5.262 seconds
+2020-07-08 13:19:30,978 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.027 seconds
+2020-07-08 13:22:03,703 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 13:22:03,708 | INFO | AbstractLogger.java 382 | Testing: checkOutpoutDirectory(com.tutorial.camel.route.direct.TestCamelSingleRouteDirect)
+2020-07-08 13:22:03,708 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 13:22:03,992 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 13:22:04,933 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 13:22:04,935 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 13:22:04,936 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 13:22:04,961 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: direct://sampleInput
+2020-07-08 13:22:04,966 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 13:22:04,969 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.034 seconds
+2020-07-08 13:22:05,014 | INFO | AbstractLogger.java 382 | Received Message is Hello,Debajoy,1234556433 and Headers are {}
+2020-07-08 13:22:10,095 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 13:22:10,096 | INFO | AbstractLogger.java 382 | Testing done: checkOutpoutDirectory(com.tutorial.camel.route.direct.TestCamelSingleRouteDirect)
+2020-07-08 13:22:10,096 | INFO | AbstractLogger.java 382 | Took: 5.123 seconds (5123 millis)
+2020-07-08 13:22:10,096 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 13:22:10,112 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 13:22:10,117 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 13:22:10,127 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: direct://sampleInput
+2020-07-08 13:22:10,128 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 13:22:10,141 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 5.208 seconds
+2020-07-08 13:22:10,142 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.030 seconds
+2020-07-08 13:23:10,875 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 13:23:10,881 | INFO | AbstractLogger.java 382 | Testing: checkOutpoutDirectory(com.tutorial.camel.route.direct.TestCamelSingleRouteDirect)
+2020-07-08 13:23:10,881 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 13:23:11,115 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 13:23:12,097 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 13:23:12,099 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 13:23:12,100 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 13:23:12,117 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: direct://sampleInput
+2020-07-08 13:23:12,120 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 13:23:12,122 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.024 seconds
+2020-07-08 13:23:12,183 | INFO | AbstractLogger.java 382 | Received Message is Hello,Debajoy,1234556433 and Headers are {}
+2020-07-08 13:23:17,267 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 13:23:17,268 | INFO | AbstractLogger.java 382 | Testing done: checkOutpoutDirectory(com.tutorial.camel.route.direct.TestCamelSingleRouteDirect)
+2020-07-08 13:23:17,269 | INFO | AbstractLogger.java 382 | Took: 5.143 seconds (5143 millis)
+2020-07-08 13:23:17,269 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 13:23:17,283 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 13:23:17,289 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 13:23:17,295 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: direct://sampleInput
+2020-07-08 13:23:17,297 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 13:23:17,311 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 5.214 seconds
+2020-07-08 13:23:17,312 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.029 seconds
+2020-07-08 13:25:37,960 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 13:25:37,964 | INFO | AbstractLogger.java 382 | Testing: checkOutpoutDirectory(com.tutorial.camel.route.direct.TestCamelSingleRouteDirect)
+2020-07-08 13:25:37,964 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 13:25:38,226 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 13:25:39,333 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 13:25:39,335 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 13:25:39,337 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 13:25:39,359 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: direct://sampleInput
+2020-07-08 13:25:39,362 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 13:25:39,364 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.030 seconds
+2020-07-08 13:25:39,414 | INFO | AbstractLogger.java 382 | Received Message is Hello,Debajoy,1234556433 and Headers are {}
+2020-07-08 13:25:44,513 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 13:25:44,514 | INFO | AbstractLogger.java 382 | Testing done: checkOutpoutDirectory(com.tutorial.camel.route.direct.TestCamelSingleRouteDirect)
+2020-07-08 13:25:44,515 | INFO | AbstractLogger.java 382 | Took: 5.148 seconds (5148 millis)
+2020-07-08 13:25:44,515 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 13:25:44,528 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 13:25:44,533 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 13:25:44,542 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: direct://sampleInput
+2020-07-08 13:25:44,543 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 13:25:44,558 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 5.225 seconds
+2020-07-08 13:25:44,559 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.030 seconds
+2020-07-08 13:47:02,593 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 13:47:02,599 | INFO | AbstractLogger.java 382 | Testing: checkOutpoutDirectoryMock(com.tutorial.camel.route.mock.TestCamelSingleRouteMock)
+2020-07-08 13:47:02,600 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 13:47:02,873 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 13:47:03,917 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 13:47:03,926 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 13:47:03,927 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 13:47:03,943 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: direct://sampleInput
+2020-07-08 13:47:03,946 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 13:47:03,948 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.023 seconds
+2020-07-08 13:47:04,033 | INFO | AbstractLogger.java 382 | Received Message is Welcome to Camel and Headers are {}
+2020-07-08 13:47:09,096 | INFO | AbstractLogger.java 386 | Asserting: mock://output is satisfied
+2020-07-08 13:47:09,097 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 13:47:09,097 | INFO | AbstractLogger.java 382 | Testing done: checkOutpoutDirectoryMock(com.tutorial.camel.route.mock.TestCamelSingleRouteMock)
+2020-07-08 13:47:09,098 | INFO | AbstractLogger.java 382 | Took: 5.148 seconds (5148 millis)
+2020-07-08 13:47:09,098 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 13:47:09,111 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 13:47:09,114 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 13:47:09,124 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: direct://sampleInput
+2020-07-08 13:47:09,125 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 13:47:09,137 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 5.212 seconds
+2020-07-08 13:47:09,137 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.026 seconds
+2020-07-08 14:24:29,820 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 14:24:29,827 | INFO | AbstractLogger.java 382 | Testing: checkCamelProcessor(com.tutorial.camel.route.impl.process.TestCamelProcessor)
+2020-07-08 14:24:29,827 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 14:24:30,039 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 14:24:30,955 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 14:24:30,964 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 14:24:30,964 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 14:24:30,980 | INFO | AbstractLogger.java 382 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-07-08 14:24:30,981 | INFO | AbstractLogger.java 386 | Using default memory based idempotent repository with cache max size: 1000
+2020-07-08 14:24:31,011 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: file://data/input3
+2020-07-08 14:24:31,013 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 14:24:31,015 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.052 seconds
+2020-07-08 14:24:32,053 | INFO | AbstractLogger.java 382 | Received Message is Debajoy:Camel:Synechron:1124543
+ and Headers are {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input3\inputcommaseparator, CamelFileLastModified=1594198373771, CamelFileLength=31, CamelFileName=inputcommaseparator, CamelFileNameConsumed=inputcommaseparator, CamelFileNameOnly=inputcommaseparator, CamelFileParent=data\input3, CamelFilePath=data\input3\inputcommaseparator, CamelFileRelativePath=inputcommaseparator}
+2020-07-08 14:24:36,019 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 14:24:36,019 | INFO | AbstractLogger.java 382 | Testing done: checkCamelProcessor(com.tutorial.camel.route.impl.process.TestCamelProcessor)
+2020-07-08 14:24:36,020 | INFO | AbstractLogger.java 382 | Took: 5.001 seconds (5001 millis)
+2020-07-08 14:24:36,023 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 14:24:36,030 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 14:24:36,032 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 14:24:36,039 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: file://data/input3
+2020-07-08 14:24:36,040 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 14:24:36,053 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 5.098 seconds
+2020-07-08 14:24:36,054 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.024 seconds
+2020-07-08 14:48:02,690 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 14:48:02,703 | INFO | AbstractLogger.java 382 | Testing: transformTest(com.tutorial.camel.route.mock.process.TestCamelProcessorMock)
+2020-07-08 14:48:02,708 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 14:48:02,998 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 14:48:04,050 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 14:48:04,073 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 14:48:04,075 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 14:48:04,092 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: direct://processorInput
+2020-07-08 14:48:04,096 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 14:48:04,097 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.025 seconds
+2020-07-08 14:48:34,151 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 14:48:34,151 | INFO | AbstractLogger.java 382 | Testing done: transformTest(com.tutorial.camel.route.mock.process.TestCamelProcessorMock)
+2020-07-08 14:48:34,153 | INFO | AbstractLogger.java 382 | Took: 30.053 seconds (30053 millis)
+2020-07-08 14:48:34,154 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 14:48:34,165 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 14:48:34,169 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 14:48:34,181 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: direct://processorInput
+2020-07-08 14:48:34,182 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 14:48:34,199 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 30.128 seconds
+2020-07-08 14:48:34,200 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.034 seconds
+2020-07-08 14:49:09,471 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 14:49:09,477 | INFO | AbstractLogger.java 382 | Testing: transformTestMock(com.tutorial.camel.route.mock.process.TestCamelProcessorMock)
+2020-07-08 14:49:09,477 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 14:49:09,714 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 14:49:10,608 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 14:49:10,618 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 14:49:10,618 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 14:49:10,633 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: direct://processorInput
+2020-07-08 14:49:10,636 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 14:49:10,638 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.021 seconds
+2020-07-08 14:49:10,664 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 14:49:10,666 | INFO | AbstractLogger.java 382 | Testing done: transformTestMock(com.tutorial.camel.route.mock.process.TestCamelProcessorMock)
+2020-07-08 14:49:10,667 | INFO | AbstractLogger.java 382 | Took: 0.023 seconds (23 millis)
+2020-07-08 14:49:10,668 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 14:49:10,677 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 14:49:10,679 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 14:49:10,694 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: direct://processorInput
+2020-07-08 14:49:10,695 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 14:49:10,707 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 0.091 seconds
+2020-07-08 14:49:10,707 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.030 seconds
+2020-07-08 14:49:43,746 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 14:49:43,753 | INFO | AbstractLogger.java 382 | Testing: transformTestMock(com.tutorial.camel.route.mock.process.TestCamelProcessorMock)
+2020-07-08 14:49:43,753 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 14:49:43,974 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 14:49:44,890 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 14:49:44,902 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 14:49:44,903 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 14:49:44,917 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: direct://processorInput
+2020-07-08 14:49:44,920 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 14:49:44,922 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.020 seconds
+2020-07-08 14:50:14,980 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 14:50:14,981 | INFO | AbstractLogger.java 382 | Testing done: transformTestMock(com.tutorial.camel.route.mock.process.TestCamelProcessorMock)
+2020-07-08 14:50:14,982 | INFO | AbstractLogger.java 382 | Took: 30.056 seconds (30056 millis)
+2020-07-08 14:50:14,983 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 14:50:15,001 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 14:50:15,004 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 14:50:15,017 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: direct://processorInput
+2020-07-08 14:50:15,018 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 14:50:15,028 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 30.128 seconds
+2020-07-08 14:50:15,028 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.027 seconds
+2020-07-08 14:52:48,849 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 14:52:48,855 | INFO | AbstractLogger.java 382 | Testing: transformTest(com.tutorial.camel.route.mock.process.TestCamelProcessorMock)
+2020-07-08 14:52:48,856 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 14:52:49,066 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 14:52:49,990 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 14:52:50,000 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 14:52:50,002 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 14:52:50,018 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: direct://processorInput
+2020-07-08 14:52:50,022 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 14:52:50,023 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.023 seconds
+2020-07-08 14:52:50,120 | ERROR | AbstractLogger.java 382 | Failed delivery for (MessageId: ID-LAPTOP-3DCUJF8C-1594200170114-0-1 on ExchangeId: ID-LAPTOP-3DCUJF8C-1594200170114-0-1). Exhausted after delivery attempt: 1 caught: java.lang.ClassCastException: java.lang.String cannot be cast to org.apache.camel.component.file.GenericFile
+
+Message History (complete message history is disabled)
+---------------------------------------------------------------------------------------------------------------------------------------
+RouteId              ProcessorId          Processor                                                                        Elapsed (ms)
+[route1            ] [route1            ] [from[direct://processorInput]                                                 ] [        84]
+	...
+[route1            ] [process1          ] [Processor@0x7c7a06ec                                                          ] [         0]
+
+Stacktrace
+---------------------------------------------------------------------------------------------------------------------------------------
+
+java.lang.ClassCastException: java.lang.String cannot be cast to org.apache.camel.component.file.GenericFile
+	at com.tutorial.camel.processor.DataTransformProcessor.process(DataTransformProcessor.java:15)
+	at org.apache.camel.support.processor.DelegateSyncProcessor.process(DelegateSyncProcessor.java:64)
+	at org.apache.camel.processor.errorhandler.RedeliveryErrorHandler$SimpleTask.run(RedeliveryErrorHandler.java:395)
+	at org.apache.camel.impl.engine.DefaultReactiveExecutor$Worker.schedule(DefaultReactiveExecutor.java:148)
+	at org.apache.camel.impl.engine.DefaultReactiveExecutor.scheduleMain(DefaultReactiveExecutor.java:60)
+	at org.apache.camel.processor.Pipeline.process(Pipeline.java:147)
+	at org.apache.camel.processor.CamelInternalProcessor.process(CamelInternalProcessor.java:286)
+	at org.apache.camel.component.direct.DirectProducer.process(DirectProducer.java:66)
+	at org.apache.camel.processor.SharedCamelInternalProcessor.process(SharedCamelInternalProcessor.java:212)
+	at org.apache.camel.processor.SharedCamelInternalProcessor$1.process(SharedCamelInternalProcessor.java:110)
+	at org.apache.camel.impl.engine.DefaultAsyncProcessorAwaitManager.process(DefaultAsyncProcessorAwaitManager.java:83)
+	at org.apache.camel.processor.SharedCamelInternalProcessor.process(SharedCamelInternalProcessor.java:107)
+	at org.apache.camel.impl.engine.DefaultProducerCache.send(DefaultProducerCache.java:185)
+	at org.apache.camel.impl.engine.DefaultProducerTemplate.send(DefaultProducerTemplate.java:176)
+	at org.apache.camel.impl.engine.DefaultProducerTemplate.send(DefaultProducerTemplate.java:172)
+	at org.apache.camel.impl.engine.DefaultProducerTemplate.send(DefaultProducerTemplate.java:158)
+	at org.apache.camel.impl.engine.DefaultProducerTemplate.sendBody(DefaultProducerTemplate.java:181)
+	at org.apache.camel.impl.engine.DefaultProducerTemplate.requestBody(DefaultProducerTemplate.java:352)
+	at com.tutorial.camel.route.mock.process.TestCamelProcessorMock.transformTest(TestCamelProcessorMock.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:61)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:61)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:54)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+2020-07-08 14:52:50,152 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 14:52:50,152 | INFO | AbstractLogger.java 382 | Testing done: transformTest(com.tutorial.camel.route.mock.process.TestCamelProcessorMock)
+2020-07-08 14:52:50,153 | INFO | AbstractLogger.java 382 | Took: 0.127 seconds (127 millis)
+2020-07-08 14:52:50,153 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 14:52:50,164 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 14:52:50,169 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 14:52:50,189 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: direct://processorInput
+2020-07-08 14:52:50,190 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 14:52:50,238 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 0.239 seconds
+2020-07-08 14:52:50,240 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.076 seconds
+2020-07-08 15:03:32,609 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:03:32,618 | INFO | AbstractLogger.java 382 | Testing: transformTest(com.tutorial.camel.route.mock.process.TestCamelProcessorMock)
+2020-07-08 15:03:32,618 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:03:32,980 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 15:03:34,370 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 15:03:34,374 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 15:03:34,376 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 15:03:34,395 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: direct://processorInput
+2020-07-08 15:03:34,399 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 15:03:34,409 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.035 seconds
+2020-07-08 15:10:37,177 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:10:37,183 | INFO | AbstractLogger.java 382 | Testing: checkCamelProcessor(com.tutorial.camel.route.impl.process.TestCamelProcessor)
+2020-07-08 15:10:37,183 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:10:37,516 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 15:10:38,864 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 15:10:38,883 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 15:10:38,888 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 15:10:38,905 | INFO | AbstractLogger.java 382 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-07-08 15:10:38,905 | INFO | AbstractLogger.java 386 | Using default memory based idempotent repository with cache max size: 1000
+2020-07-08 15:10:38,937 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: file://data/input3
+2020-07-08 15:10:38,941 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 15:10:38,944 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.064 seconds
+2020-07-08 15:10:39,984 | INFO | AbstractLogger.java 382 | Received Message is Debajoy:Camel:Synechron:1124543
+ and Headers are {CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Users\Debajoy\IdeaProjects\ApacheCamel\data\input3\inputcommaseparator, CamelFileLastModified=1594198373771, CamelFileLength=31, CamelFileName=inputcommaseparator, CamelFileNameConsumed=inputcommaseparator, CamelFileNameOnly=inputcommaseparator, CamelFileParent=data\input3, CamelFilePath=data\input3\inputcommaseparator, CamelFileRelativePath=inputcommaseparator}
+2020-07-08 15:10:43,950 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:10:43,951 | INFO | AbstractLogger.java 382 | Testing done: checkCamelProcessor(com.tutorial.camel.route.impl.process.TestCamelProcessor)
+2020-07-08 15:10:43,951 | INFO | AbstractLogger.java 382 | Took: 5.001 seconds (5001 millis)
+2020-07-08 15:10:43,955 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:10:43,964 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 15:10:43,967 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 15:10:43,975 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: file://data/input3
+2020-07-08 15:10:43,976 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 15:10:43,987 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 5.123 seconds
+2020-07-08 15:10:43,987 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.023 seconds
+2020-07-08 15:12:25,936 | ERROR | AbstractLogger.java 382 | Failed delivery for (MessageId: ID-LAPTOP-3DCUJF8C-1594201345928-0-1 on ExchangeId: ID-LAPTOP-3DCUJF8C-1594201345928-0-1). Exhausted after delivery attempt: 1 caught: java.lang.ClassCastException: java.lang.String cannot be cast to org.apache.camel.component.file.GenericFile
+
+Message History (complete message history is disabled)
+---------------------------------------------------------------------------------------------------------------------------------------
+RouteId              ProcessorId          Processor                                                                        Elapsed (ms)
+[route1            ] [route1            ] [from[direct://processorInput]                                                 ] [    531516]
+	...
+[route1            ] [process1          ] [Processor@0x29a5f4e7                                                          ] [         0]
+
+Stacktrace
+---------------------------------------------------------------------------------------------------------------------------------------
+
+java.lang.ClassCastException: java.lang.String cannot be cast to org.apache.camel.component.file.GenericFile
+	at com.tutorial.camel.processor.DataTransformProcessor.process(DataTransformProcessor.java:15)
+	at org.apache.camel.support.processor.DelegateSyncProcessor.process(DelegateSyncProcessor.java:64)
+	at org.apache.camel.processor.errorhandler.RedeliveryErrorHandler$SimpleTask.run(RedeliveryErrorHandler.java:395)
+	at org.apache.camel.impl.engine.DefaultReactiveExecutor$Worker.schedule(DefaultReactiveExecutor.java:148)
+	at org.apache.camel.impl.engine.DefaultReactiveExecutor.scheduleMain(DefaultReactiveExecutor.java:60)
+	at org.apache.camel.processor.Pipeline.process(Pipeline.java:147)
+	at org.apache.camel.processor.CamelInternalProcessor.process(CamelInternalProcessor.java:286)
+	at org.apache.camel.component.direct.DirectProducer.process(DirectProducer.java:66)
+	at org.apache.camel.processor.SharedCamelInternalProcessor.process(SharedCamelInternalProcessor.java:212)
+	at org.apache.camel.processor.SharedCamelInternalProcessor$1.process(SharedCamelInternalProcessor.java:110)
+	at org.apache.camel.impl.engine.DefaultAsyncProcessorAwaitManager.process(DefaultAsyncProcessorAwaitManager.java:83)
+	at org.apache.camel.processor.SharedCamelInternalProcessor.process(SharedCamelInternalProcessor.java:107)
+	at org.apache.camel.impl.engine.DefaultProducerCache.send(DefaultProducerCache.java:185)
+	at org.apache.camel.impl.engine.DefaultProducerTemplate.send(DefaultProducerTemplate.java:176)
+	at org.apache.camel.impl.engine.DefaultProducerTemplate.send(DefaultProducerTemplate.java:172)
+	at org.apache.camel.impl.engine.DefaultProducerTemplate.send(DefaultProducerTemplate.java:158)
+	at org.apache.camel.impl.engine.DefaultProducerTemplate.sendBody(DefaultProducerTemplate.java:181)
+	at org.apache.camel.impl.engine.DefaultProducerTemplate.requestBody(DefaultProducerTemplate.java:352)
+	at com.tutorial.camel.route.mock.process.TestCamelProcessorMock.transformTest(TestCamelProcessorMock.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:61)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:61)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:54)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+2020-07-08 15:12:25,951 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:12:25,951 | INFO | AbstractLogger.java 382 | Testing done: transformTest(com.tutorial.camel.route.mock.process.TestCamelProcessorMock)
+2020-07-08 15:12:25,952 | INFO | AbstractLogger.java 382 | Took: 8 minutes (531540 millis)
+2020-07-08 15:12:25,952 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:12:25,964 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 15:12:25,970 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 15:12:26,020 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: direct://processorInput
+2020-07-08 15:12:26,021 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 15:12:26,030 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 8 minutes
+2020-07-08 15:12:26,030 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.066 seconds
+2020-07-08 15:12:37,606 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:12:37,615 | INFO | AbstractLogger.java 382 | Testing: transformTest(com.tutorial.camel.route.mock.process.TestCamelProcessorMock)
+2020-07-08 15:12:37,615 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:12:38,018 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 15:12:39,064 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 15:12:39,074 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 15:12:39,074 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 15:12:39,090 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: direct://processorInput
+2020-07-08 15:12:39,094 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 15:12:39,096 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.022 seconds
+2020-07-08 15:12:39,179 | ERROR | AbstractLogger.java 382 | Failed delivery for (MessageId: ID-LAPTOP-3DCUJF8C-1594201359172-0-1 on ExchangeId: ID-LAPTOP-3DCUJF8C-1594201359172-0-1). Exhausted after delivery attempt: 1 caught: java.lang.ClassCastException: java.lang.String cannot be cast to org.apache.camel.component.file.GenericFile
+
+Message History (complete message history is disabled)
+---------------------------------------------------------------------------------------------------------------------------------------
+RouteId              ProcessorId          Processor                                                                        Elapsed (ms)
+[route1            ] [route1            ] [from[direct://processorInput]                                                 ] [        75]
+	...
+[route1            ] [process1          ] [Processor@0x7c7a06ec                                                          ] [         0]
+
+Stacktrace
+---------------------------------------------------------------------------------------------------------------------------------------
+
+java.lang.ClassCastException: java.lang.String cannot be cast to org.apache.camel.component.file.GenericFile
+	at com.tutorial.camel.processor.DataTransformProcessor.process(DataTransformProcessor.java:15)
+	at org.apache.camel.support.processor.DelegateSyncProcessor.process(DelegateSyncProcessor.java:64)
+	at org.apache.camel.processor.errorhandler.RedeliveryErrorHandler$SimpleTask.run(RedeliveryErrorHandler.java:395)
+	at org.apache.camel.impl.engine.DefaultReactiveExecutor$Worker.schedule(DefaultReactiveExecutor.java:148)
+	at org.apache.camel.impl.engine.DefaultReactiveExecutor.scheduleMain(DefaultReactiveExecutor.java:60)
+	at org.apache.camel.processor.Pipeline.process(Pipeline.java:147)
+	at org.apache.camel.processor.CamelInternalProcessor.process(CamelInternalProcessor.java:286)
+	at org.apache.camel.component.direct.DirectProducer.process(DirectProducer.java:66)
+	at org.apache.camel.processor.SharedCamelInternalProcessor.process(SharedCamelInternalProcessor.java:212)
+	at org.apache.camel.processor.SharedCamelInternalProcessor$1.process(SharedCamelInternalProcessor.java:110)
+	at org.apache.camel.impl.engine.DefaultAsyncProcessorAwaitManager.process(DefaultAsyncProcessorAwaitManager.java:83)
+	at org.apache.camel.processor.SharedCamelInternalProcessor.process(SharedCamelInternalProcessor.java:107)
+	at org.apache.camel.impl.engine.DefaultProducerCache.send(DefaultProducerCache.java:185)
+	at org.apache.camel.impl.engine.DefaultProducerTemplate.send(DefaultProducerTemplate.java:176)
+	at org.apache.camel.impl.engine.DefaultProducerTemplate.send(DefaultProducerTemplate.java:172)
+	at org.apache.camel.impl.engine.DefaultProducerTemplate.send(DefaultProducerTemplate.java:158)
+	at org.apache.camel.impl.engine.DefaultProducerTemplate.sendBody(DefaultProducerTemplate.java:181)
+	at org.apache.camel.impl.engine.DefaultProducerTemplate.requestBody(DefaultProducerTemplate.java:352)
+	at com.tutorial.camel.route.mock.process.TestCamelProcessorMock.transformTest(TestCamelProcessorMock.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:61)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:61)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:54)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+2020-07-08 15:12:39,191 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:12:39,191 | INFO | AbstractLogger.java 382 | Testing done: transformTest(com.tutorial.camel.route.mock.process.TestCamelProcessorMock)
+2020-07-08 15:12:39,192 | INFO | AbstractLogger.java 382 | Took: 0.094 seconds (94 millis)
+2020-07-08 15:12:39,192 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:12:39,212 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 15:12:39,219 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 15:12:39,232 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: direct://processorInput
+2020-07-08 15:12:39,232 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 15:12:39,246 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 0.174 seconds
+2020-07-08 15:12:39,247 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.035 seconds
+2020-07-08 15:14:59,320 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:14:59,327 | INFO | AbstractLogger.java 382 | Testing: transformTest(com.tutorial.camel.route.mock.process.TestCamelProcessorMock)
+2020-07-08 15:14:59,327 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:14:59,547 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 15:15:00,550 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 15:15:00,559 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 15:15:00,561 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 15:15:00,582 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: direct://processorInput
+2020-07-08 15:15:00,585 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 15:15:00,586 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.028 seconds
+2020-07-08 15:15:00,644 | INFO | AbstractLogger.java 382 | Received Message is Debajoy,21035-Syne-Emp-ID,13-12-2019 and Headers are {}
+2020-07-08 15:15:00,693 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:15:00,694 | INFO | AbstractLogger.java 382 | Testing done: transformTest(com.tutorial.camel.route.mock.process.TestCamelProcessorMock)
+2020-07-08 15:15:00,694 | INFO | AbstractLogger.java 382 | Took: 0.105 seconds (105 millis)
+2020-07-08 15:15:00,695 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:15:00,706 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 15:15:00,715 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 15:15:00,733 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: direct://processorInput
+2020-07-08 15:15:00,733 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 15:15:00,748 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 0.191 seconds
+2020-07-08 15:15:00,748 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.043 seconds
+2020-07-08 15:20:47,428 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:20:47,449 | INFO | AbstractLogger.java 382 | Testing: transformTest(com.tutorial.camel.route.mock.process.TestCamelProcessorMock)
+2020-07-08 15:20:47,495 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:20:47,878 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 15:20:49,000 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 15:20:49,003 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 15:20:49,005 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 15:20:49,022 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: direct://processorInput
+2020-07-08 15:20:49,025 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 15:20:49,033 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.025 seconds
+2020-07-08 15:20:49,085 | INFO | AbstractLogger.java 382 | Received Message is Debajoy:21035-Syne-Emp-ID:13-12-2019
+ and Headers are {}
+2020-07-08 15:20:49,134 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:20:49,135 | INFO | AbstractLogger.java 382 | Testing done: transformTest(com.tutorial.camel.route.mock.process.TestCamelProcessorMock)
+2020-07-08 15:20:49,136 | INFO | AbstractLogger.java 382 | Took: 0.100 seconds (100 millis)
+2020-07-08 15:20:49,137 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:20:49,150 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 15:20:49,156 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 15:20:49,166 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: direct://processorInput
+2020-07-08 15:20:49,167 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 15:20:49,179 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 0.178 seconds
+2020-07-08 15:20:49,180 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.030 seconds
+2020-07-08 15:21:57,840 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:21:57,846 | INFO | AbstractLogger.java 382 | Testing: transformTest(com.tutorial.camel.route.mock.process.TestCamelProcessorMock)
+2020-07-08 15:21:57,847 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:21:58,098 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 15:21:58,971 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 15:21:58,983 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 15:21:58,985 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 15:21:59,000 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: direct://processorInput
+2020-07-08 15:21:59,004 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 15:21:59,006 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.024 seconds
+2020-07-08 15:21:59,061 | INFO | AbstractLogger.java 382 | Received Message is Debajoy:21035-Syne-Emp-ID:13-12-2019
+ and Headers are {}
+2020-07-08 15:21:59,113 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:21:59,113 | INFO | AbstractLogger.java 382 | Testing done: transformTest(com.tutorial.camel.route.mock.process.TestCamelProcessorMock)
+2020-07-08 15:21:59,114 | INFO | AbstractLogger.java 382 | Took: 0.106 seconds (106 millis)
+2020-07-08 15:21:59,115 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:21:59,138 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 15:21:59,146 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 15:21:59,233 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: direct://processorInput
+2020-07-08 15:21:59,234 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 15:21:59,249 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 0.269 seconds
+2020-07-08 15:21:59,250 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.112 seconds
+2020-07-08 15:22:13,875 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:22:13,882 | INFO | AbstractLogger.java 382 | Testing: transformTestMock(com.tutorial.camel.route.mock.process.TestCamelProcessorMock)
+2020-07-08 15:22:13,882 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:22:14,100 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 15:22:15,032 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 15:22:15,044 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 15:22:15,045 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 15:22:15,058 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: direct://processorInput
+2020-07-08 15:22:15,061 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 15:22:15,063 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.021 seconds
+2020-07-08 15:22:15,119 | INFO | AbstractLogger.java 382 | Received Message is Debajoy:21035-Syne-Emp-ID:13-12-2019
+ and Headers are {}
+2020-07-08 15:22:15,167 | INFO | AbstractLogger.java 386 | Asserting: mock://output is satisfied
+2020-07-08 15:22:15,168 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:22:15,175 | INFO | AbstractLogger.java 382 | Testing done: transformTestMock(com.tutorial.camel.route.mock.process.TestCamelProcessorMock)
+2020-07-08 15:22:15,176 | INFO | AbstractLogger.java 382 | Took: 0.103 seconds (103 millis)
+2020-07-08 15:22:15,177 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 15:22:15,193 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 15:22:15,196 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 15:22:15,208 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: direct://processorInput
+2020-07-08 15:22:15,209 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 15:22:15,220 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 0.179 seconds
+2020-07-08 15:22:15,221 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.028 seconds
+2020-07-08 16:38:06,524 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 16:38:06,530 | INFO | AbstractLogger.java 382 | Testing: exceptionCheck_Nothandled(com.tutorial.camel.route.impl.onexception.TestOnException)
+2020-07-08 16:38:06,530 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 16:38:06,763 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 16:38:08,059 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 16:38:08,066 | INFO | AbstractLogger.java 382 | Testing done: exceptionCheck_Nothandled(com.tutorial.camel.route.impl.onexception.TestOnException)
+2020-07-08 16:38:08,067 | INFO | AbstractLogger.java 382 | Took: 1.543 seconds (1543 millis)
+2020-07-08 16:38:08,069 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 16:38:28,882 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 16:38:28,887 | INFO | AbstractLogger.java 382 | Testing: exceptionCheck_handled_in_processor(com.tutorial.camel.route.impl.onexception.TestOnException)
+2020-07-08 16:38:28,888 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 16:38:29,139 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 16:38:30,031 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 16:38:30,032 | INFO | AbstractLogger.java 382 | Testing done: exceptionCheck_handled_in_processor(com.tutorial.camel.route.impl.onexception.TestOnException)
+2020-07-08 16:38:30,051 | INFO | AbstractLogger.java 382 | Took: 1.158 seconds (1158 millis)
+2020-07-08 16:38:30,052 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 16:40:24,916 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 16:40:24,922 | INFO | AbstractLogger.java 382 | Testing: exceptionCheck_handled_in_processor(com.tutorial.camel.route.impl.onexception.TestOnException)
+2020-07-08 16:40:24,923 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 16:40:25,147 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 16:40:26,216 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 16:40:26,219 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 16:40:26,221 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 16:40:26,239 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: direct://exception
+2020-07-08 16:40:26,247 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 16:40:26,250 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.033 seconds
+2020-07-08 16:40:30,377 | WARN | AbstractLogger.java 382 | Exception in Processor caught here
+2020-07-08 16:40:30,380 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 16:40:30,380 | INFO | AbstractLogger.java 382 | Testing done: exceptionCheck_handled_in_processor(com.tutorial.camel.route.impl.onexception.TestOnException)
+2020-07-08 16:40:30,381 | INFO | AbstractLogger.java 382 | Took: 4.127 seconds (4127 millis)
+2020-07-08 16:40:30,381 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 16:40:30,392 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 16:40:30,396 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 16:40:30,403 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: direct://exception
+2020-07-08 16:40:30,405 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 16:40:30,419 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 4.203 seconds
+2020-07-08 16:40:30,419 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.027 seconds
+2020-07-08 16:43:34,189 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 16:43:34,195 | INFO | AbstractLogger.java 382 | Testing: checkDefaultException(com.tutorial.camel.route.impl.defaulthandler.TestDefaultHandler)
+2020-07-08 16:43:34,197 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 16:43:34,454 | INFO | AbstractLogger.java 386 | Detected and using LRUCacheFactory: camel-caffeine-lrucache
+2020-07-08 16:43:35,535 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is starting
+2020-07-08 16:43:35,537 | INFO | AbstractLogger.java 382 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-07-08 16:43:35,538 | INFO | AbstractLogger.java 386 | Using HealthCheck: camel-health
+2020-07-08 16:43:35,566 | INFO | AbstractLogger.java 382 | Route: route1 started and consuming from: direct://exception
+2020-07-08 16:43:35,570 | INFO | AbstractLogger.java 393 | Total 1 routes, of which 1 are started
+2020-07-08 16:43:35,576 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) started in 0.039 seconds
+2020-07-08 16:43:35,659 | WARN | AbstractLogger.java 382 | Failed delivery for (MessageId: ID-LAPTOP-3DCUJF8C-1594206815642-0-1 on ExchangeId: ID-LAPTOP-3DCUJF8C-1594206815642-0-1). On delivery attempt: 0 caught: java.lang.NullPointerException
+2020-07-08 16:43:38,665 | WARN | AbstractLogger.java 382 | Failed delivery for (MessageId: ID-LAPTOP-3DCUJF8C-1594206815642-0-1 on ExchangeId: ID-LAPTOP-3DCUJF8C-1594206815642-0-1). On delivery attempt: 1 caught: java.lang.NullPointerException
+2020-07-08 16:43:44,670 | WARN | AbstractLogger.java 382 | Failed delivery for (MessageId: ID-LAPTOP-3DCUJF8C-1594206815642-0-1 on ExchangeId: ID-LAPTOP-3DCUJF8C-1594206815642-0-1). On delivery attempt: 2 caught: java.lang.NullPointerException
+2020-07-08 16:43:44,677 | ERROR | AbstractLogger.java 382 | Failed delivery for (MessageId: ID-LAPTOP-3DCUJF8C-1594206815642-0-1 on ExchangeId: ID-LAPTOP-3DCUJF8C-1594206815642-0-1). Exhausted after delivery attempt: 3 caught: java.lang.NullPointerException
+
+Message History (complete message history is disabled)
+---------------------------------------------------------------------------------------------------------------------------------------
+RouteId              ProcessorId          Processor                                                                        Elapsed (ms)
+[route1            ] [route1            ] [from[direct://exception]                                                      ] [      9090]
+	...
+[route1            ] [bean1             ] [bean[com.tutorial.camel.bean.DataModifier]                                    ] [         0]
+
+Stacktrace
+---------------------------------------------------------------------------------------------------------------------------------------
+
+java.lang.NullPointerException
+	at com.tutorial.camel.bean.DataModifier.map(DataModifier.java:13)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.camel.support.ObjectHelper.invokeMethodSafe(ObjectHelper.java:209)
+	at org.apache.camel.component.bean.MethodInfo.invoke(MethodInfo.java:421)
+	at org.apache.camel.component.bean.MethodInfo$1.doProceed(MethodInfo.java:242)
+	at org.apache.camel.component.bean.MethodInfo$1.proceed(MethodInfo.java:213)
+	at org.apache.camel.component.bean.AbstractBeanProcessor.process(AbstractBeanProcessor.java:154)
+	at org.apache.camel.component.bean.BeanProcessor.process(BeanProcessor.java:56)
+	at org.apache.camel.processor.errorhandler.RedeliveryErrorHandler$RedeliveryTask.redeliver(RedeliveryErrorHandler.java:766)
+	at org.apache.camel.impl.engine.DefaultReactiveExecutor$Worker.schedule(DefaultReactiveExecutor.java:148)
+	at org.apache.camel.impl.engine.DefaultReactiveExecutor.scheduleMain(DefaultReactiveExecutor.java:60)
+	at org.apache.camel.processor.Pipeline.process(Pipeline.java:147)
+	at org.apache.camel.processor.CamelInternalProcessor.process(CamelInternalProcessor.java:286)
+	at org.apache.camel.component.direct.DirectProducer.process(DirectProducer.java:66)
+	at org.apache.camel.processor.SharedCamelInternalProcessor.process(SharedCamelInternalProcessor.java:212)
+	at org.apache.camel.processor.SharedCamelInternalProcessor$1.process(SharedCamelInternalProcessor.java:110)
+	at org.apache.camel.impl.engine.DefaultAsyncProcessorAwaitManager.process(DefaultAsyncProcessorAwaitManager.java:83)
+	at org.apache.camel.processor.SharedCamelInternalProcessor.process(SharedCamelInternalProcessor.java:107)
+	at org.apache.camel.impl.engine.DefaultProducerCache.send(DefaultProducerCache.java:185)
+	at org.apache.camel.impl.engine.DefaultProducerTemplate.send(DefaultProducerTemplate.java:176)
+	at org.apache.camel.impl.engine.DefaultProducerTemplate.send(DefaultProducerTemplate.java:172)
+	at org.apache.camel.impl.engine.DefaultProducerTemplate.requestBody(DefaultProducerTemplate.java:390)
+	at com.tutorial.camel.route.impl.defaulthandler.TestDefaultHandler.checkDefaultException(TestDefaultHandler.java:16)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:61)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:61)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:54)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+	Suppressed: java.lang.NullPointerException
+		... 58 more
+		Suppressed: java.lang.NullPointerException
+			at com.tutorial.camel.bean.DataModifier.map(DataModifier.java:13)
+			at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+			at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+			at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+			at java.lang.reflect.Method.invoke(Method.java:498)
+			at org.apache.camel.support.ObjectHelper.invokeMethodSafe(ObjectHelper.java:209)
+			at org.apache.camel.component.bean.MethodInfo.invoke(MethodInfo.java:421)
+			at org.apache.camel.component.bean.MethodInfo$1.doProceed(MethodInfo.java:242)
+			at org.apache.camel.component.bean.MethodInfo$1.proceed(MethodInfo.java:213)
+			at org.apache.camel.component.bean.AbstractBeanProcessor.process(AbstractBeanProcessor.java:154)
+			at org.apache.camel.component.bean.BeanProcessor.process(BeanProcessor.java:56)
+			at org.apache.camel.processor.errorhandler.RedeliveryErrorHandler$RedeliveryTask.doRun(RedeliveryErrorHandler.java:702)
+			at org.apache.camel.processor.errorhandler.RedeliveryErrorHandler$RedeliveryTask.run(RedeliveryErrorHandler.java:616)
+			... 46 more
+2020-07-08 16:43:44,703 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 16:43:44,703 | INFO | AbstractLogger.java 382 | Testing done: checkDefaultException(com.tutorial.camel.route.impl.defaulthandler.TestDefaultHandler)
+2020-07-08 16:43:44,707 | INFO | AbstractLogger.java 382 | Took: 9.125 seconds (9125 millis)
+2020-07-08 16:43:44,707 | INFO | AbstractLogger.java 382 | ********************************************************************************
+2020-07-08 16:43:44,721 | INFO | AbstractLogger.java 393 | Apache Camel 3.4.0 (camel-1) is shutting down
+2020-07-08 16:43:44,724 | INFO | AbstractLogger.java 403 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-07-08 16:43:44,731 | INFO | AbstractLogger.java 393 | Route: route1 shutdown complete, was consuming from: direct://exception
+2020-07-08 16:43:44,732 | INFO | AbstractLogger.java 393 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-07-08 16:43:44,744 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) uptime 9.208 seconds
+2020-07-08 16:43:44,744 | INFO | AbstractLogger.java 403 | Apache Camel 3.4.0 (camel-1) is shutdown in 0.023 seconds
